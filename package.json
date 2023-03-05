@@ -1,5 +1,5 @@
 {
-  "homepage": "https://rohin20.github.io/refugeemovement",
+  "homepage": "https://rohin20.github.io/refugeemovement/",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "yarn build",
